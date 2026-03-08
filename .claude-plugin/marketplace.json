@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-ruby-lsp-plugin",
+  "name": "afomera",
   "version": "0.1.0",
   "description": "Ruby language intelligence for Claude Code via Shopify's ruby-lsp language server",
   "owner": {

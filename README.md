@@ -21,7 +21,8 @@ ruby-lsp --version
 ## Installation
 
 ```sh
-claude plugin add afomera/claude-ruby-lsp-plugin
+/plugin marketplace add afomera/claude-ruby-lsp
+/plugin install ruby-lsp@afomera
 ```
 
 ## Supported File Types
