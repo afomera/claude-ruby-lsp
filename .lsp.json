@@ -1,0 +1,16 @@
+{
+  "ruby": {
+    "command": "ruby-lsp",
+    "args": [],
+    "extensionToLanguage": {
+      ".rb": "ruby",
+      ".rake": "ruby",
+      ".gemspec": "ruby",
+      ".ru": "ruby",
+      ".erb": "erb",
+      ".rbs": "rbs",
+      ".slim": "slim",
+      ".haml": "haml"
+    }
+  }
+}

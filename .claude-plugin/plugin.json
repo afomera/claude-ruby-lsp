@@ -1,0 +1,10 @@
+{
+  "name": "ruby-lsp",
+  "version": "0.1.0",
+  "description": "Ruby language intelligence for Claude Code via Shopify's ruby-lsp language server",
+  "author": {
+    "name": "Andrea Fomera"
+  },
+  "homepage": "https://github.com/afomera/claude-ruby-lsp-plugin",
+  "license": "MIT"
+}
