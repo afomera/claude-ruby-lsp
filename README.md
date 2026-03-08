@@ -35,20 +35,6 @@ ruby-lsp --version
 | `.ru`     | ruby        |
 | `.erb`    | erb         |
 | `.rbs`    | rbs         |
-| `.slim`   | slim        |
-| `.haml`   | haml        |
-
-## Optional Addons
-
-For template language support, install the corresponding addons:
-
-| Addon | File Type | Install |
-|-------|-----------|---------|
-| [ruby-lsp-haml](https://github.com/Shopify/ruby-lsp-haml) | `.haml` | `gem install ruby-lsp-haml` |
-| [ruby-lsp-rails-slim](https://github.com/manuelvicnt/ruby-lsp-rails-slim) | `.slim` | `gem install ruby-lsp-rails-slim` |
-
-These are not required — the plugin will work for Ruby files without them.
-
 ## Configuration
 
 Ruby LSP supports project-level configuration via `.ruby-lsp/config.yml`. See the [ruby-lsp documentation](https://shopify.github.io/ruby-lsp/) for details.

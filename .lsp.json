@@ -8,9 +8,7 @@
       ".gemspec": "ruby",
       ".ru": "ruby",
       ".erb": "erb",
-      ".rbs": "rbs",
-      ".slim": "slim",
-      ".haml": "haml"
+      ".rbs": "rbs"
     }
   }
 }
