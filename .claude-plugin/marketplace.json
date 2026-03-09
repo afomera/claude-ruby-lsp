@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "afomera",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ruby language intelligence for Claude Code via Shopify's ruby-lsp language server",
   "owner": {
     "name": "Andrea Fomera"
@@ -10,7 +10,7 @@
     {
       "name": "ruby-lsp",
       "description": "Ruby code intelligence — diagnostics, go-to-definition, hover, completion, formatting, and more via ruby-lsp",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "source": "./"
     }
   ]

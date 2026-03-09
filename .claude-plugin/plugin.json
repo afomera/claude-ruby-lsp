@@ -1,6 +1,6 @@
 {
   "name": "ruby-lsp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ruby language intelligence for Claude Code via Shopify's ruby-lsp language server",
   "author": {
     "name": "Andrea Fomera"

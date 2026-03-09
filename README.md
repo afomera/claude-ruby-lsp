@@ -18,6 +18,18 @@ Verify it's available:
 ruby-lsp --version
 ```
 
+### Slim support (optional)
+
+For Slim template intelligence, add `ruby-lsp-slim` to your project's Gemfile:
+
+```ruby
+group :development do
+  gem "ruby-lsp-slim"
+end
+```
+
+Then run `bundle install`. See [ruby-lsp-slim](https://github.com/afomera/ruby-lsp-slim) for details.
+
 ## Installation
 
 ```sh
@@ -35,6 +47,7 @@ ruby-lsp --version
 | `.ru`     | ruby        |
 | `.erb`    | erb         |
 | `.rbs`    | rbs         |
+| `.slim`   | slim        |
 ## Configuration
 
 Ruby LSP supports project-level configuration via `.ruby-lsp/config.yml`. See the [ruby-lsp documentation](https://shopify.github.io/ruby-lsp/) for details.
